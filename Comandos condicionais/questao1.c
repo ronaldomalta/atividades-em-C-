@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main{
+int main(){
 float nota1, nota2, media;
     printf("qual foi a sua nota do 1GQ: \n", nota1);
     scanf("%0.2f", &nota1);

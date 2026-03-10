@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int main{
+int main(){
 float altura, peso, imc;
 printf("qual e sua altura: \n");
 scanf("%f", &altura);

@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main{
+int main(){
 float salario, emprestimo;
     printf("digite o seu salario: \n");
     scanf("%.2f", salario);
