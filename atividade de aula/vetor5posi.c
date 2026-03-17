@@ -9,7 +9,7 @@ int main(){
         scanf("%d", &vetor[i]);
     }
     for(i=0;i<5; i++){
-        if (vetor[i]<10);
+        if (vetor[i]>10);
         contador ++;
     }
 
