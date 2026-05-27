@@ -29,6 +29,6 @@ int main(){
         printf("sequencial:%d encontado em V[%d].\n", x, pos);
 
     }
-
+        
     return 0;
 }
